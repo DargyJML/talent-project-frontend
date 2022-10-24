@@ -18,10 +18,10 @@ function Footer() {
           <div className="col">
             <h2>Talenta.</h2>
             <ui className="list-unstyled">
-              <ul>
+              
               <div className="facebook"> <a href="https://www.facebook.com/TalentaColombia" target="_blank"><i class="fa-brands fa-facebook"/> Facebook</a> </div> 
               <div className="instagram"> <a href="https://www.instagram.com/talentacolombia/" target="_blank"><i class="fa-brands fa-instagram"/> Instagram</a> </div>
-              <a href="https://www.linkedin.com/company/talenta365/mycompany/" target="_blank"> <i class="fa-brands fa-linkedin"/> Linkedin </a></ul>
+              <a href="https://www.linkedin.com/company/talenta365/mycompany/" target="_blank"> <i class="fa-brands fa-linkedin"/> Linkedin </a>
             </ui>
           </div>
           {/* Column3 */}

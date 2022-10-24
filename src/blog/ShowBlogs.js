@@ -11,8 +11,6 @@ const CompShowBlogs = () => {
     const [title, setTitle] = useState('')
     const [content, setContent] = useState('')
     const navigate = useNavigate()    
-
-
     
     //procedimiento guardar
     const store = async (e) => {
@@ -63,7 +61,7 @@ const CompShowBlogs = () => {
                         onChange={ (e)=> setTitle(e.target.value)} 
                         type="text"
                         className='form-control'
-                        
+                        required
                     />
                  </div>   
                  <div className='mb-3'>
@@ -73,6 +71,7 @@ const CompShowBlogs = () => {
                         onChange={ (e)=> setContent(e.target.value)} 
                         type="text"
                         className='form-control'
+                        required
                     />                 
                  </div>  
                  <button type='submit' className='btn btn-primary' onClick={()=>guardar(refreshPage())}>Submit</button>   
