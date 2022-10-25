@@ -1,70 +1,111 @@
-# Getting Started with Create React App
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+![talenta-share](https://user-images.githubusercontent.com/90289472/197649621-6314483e-454e-4e61-9ecf-a06ec4bd02c3.jpg)
 
-## Available Scripts
 
-In the project directory, you can run:
 
-### `npm start`
+<h1> 
+ TALENT_PROJECT_FRONTEND
+</h1>                                              
+ ___
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+ ## Tabla de contenidos:
+---
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+- [Imagenes](#imagenes)  
+- [Deploy](#deploy) 
+- [Instalación](#instalación)                                                  
+- [Construido con](#construido-con) 
+- [Documentación](#documentación)                                                 
+ 
+                                                   
+## Imagenes                                                
+                                                   
+<details>      
+ 
+  <summary> <h2> VISTA PRINCIPAL</h2></summary>
 
-### `npm test`
+                                                   
+<h2> 
+ Formulario de crear
+</h2>
+                                
+![Captura de pantalla de 2022-10-24 18-11-11](https://user-images.githubusercontent.com/90289472/197652412-1298b367-8510-409d-9ea5-1aa270e20848.png)
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+                                               
+ ___
+                                                                                                               
+<h2> 
+ creacion de un nuevo dato
+</h2>
+                                
+![Captura de pantalla de 2022-10-24 18-12-06](https://user-images.githubusercontent.com/90289472/197652697-4ca35b48-e830-4e21-b04d-3ff0da43fce7.png)
 
-### `npm run build`
+                              
+ ___      
+ 
+ <h2> 
+ formulario de editar
+</h2>
+                                                   
+  ![Captura de pantalla de 2022-10-24 18-14-39](https://user-images.githubusercontent.com/90289472/197653218-b8a34168-b752-47f6-b3e7-80fe1705ca93.png)
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+                  
+ ___                                                   
+                                                   
+ <h2> 
+ Mensaje de usuario editado
+</h2>
+                                                   
+![Captura de pantalla de 2022-10-24 18-14-55](https://user-images.githubusercontent.com/90289472/197652957-c7e1f896-63d7-4994-94ab-082dd1c13b5f.png)
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+                                                
+ ___                                                   
+                                                   
+ <h2> 
+ Boton de eliminar 
+</h2>
+                                                   
+![Captura de pantalla de 2022-10-24 18-15-51](https://user-images.githubusercontent.com/90289472/197653002-bb4f2107-66aa-42ad-9fa4-fd1cf47cba23.png)
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
 
-### `npm run eject`
+ ___                                                   
+                                                   
+ <h2> 
+ Mensaje de dato eliminado
+</h2>
+    
+![Captura de pantalla de 2022-10-24 18-16-06](https://user-images.githubusercontent.com/90289472/197653068-c7a2b65a-c181-427e-b3e4-ab1a311dda09.png)
+                                     
+                                
+                                                   
+</details>
+                                                   
+   
+                                                   
+## Deploy
+                                                   
+<h2> <a href="h/"> Link aquí ✅ </a> </h2>
+                                                   
+                                        
+## Construido con                                                                                                    
+<img  src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/> </p> 
+<img  src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white"/> </p>                                               <img  src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/> </p>
+<a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://miro.medium.com/max/3164/1*80J2Wa21DYXxMbbtBziJHg.png" alt="figma" width="90" height="30"/> </a> <br>
+<a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://camo.githubusercontent.com/3bbcf0b82c285f69c513140b05e2f686a1f3fb1792164fe45b32bb74295a96c7/68747470733a2f2f7261772e6769746875622e636f6d2f7377656574616c657274322f7377656574616c657274322f6d61737465722f6173736574732f7377616c322d6c6f676f2e706e67" alt="figma" width="90" height="40"/> </a> <br>
+<a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://miro.medium.com/max/640/1*gIAzcGWffRV7bNSCU6NEUw.png" alt="figma" width="90" height="30"/> </a> <br>
+<a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://avatars.githubusercontent.com/u/49051982?v=4" alt="figma" width="40" height="40"/> </a>
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+## Instalación
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+```bash
+git clone https://g
+npm install 
+npm run dev 
+```
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+## Documentación
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
+<h2> <a href="https://www.notion.so/Documentacion-Escape-Room-440942c8b8234d1799a7bd107178e3f2"> Link aquí ✅ </a> </h2>
 
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+## Github                                                 
+[![Dargy](https://avatars.githubusercontent.com/u/90289472?size=60)](https://github.com/DargyJML) 
