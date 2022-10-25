@@ -1,5 +1,6 @@
+# talent project frontend
 
-![talenta-share](https://user-images.githubusercontent.com/90289472/197649621-6314483e-454e-4e61-9ecf-a06ec4bd02c3.jpg)
+![frontend](https://user-images.githubusercontent.com/90289472/197655099-b1cb251d-9dcd-42bf-ac17-4d0b2c96797c.jpeg)
 
 
 
